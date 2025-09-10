@@ -15,7 +15,7 @@ This project was developed as part of CPC353 (Natural Language Processing) cours
   - Handles train, dev, and test datasets
   - Tokenization and sequence padding
 - **Modeling**
-  - Implemented RNN/LSTM-based models (configurable)
+  - Implemented NN/LSTM-based models -> **Siamese Neural Network**
   - Trained with GPU for efficiency
 - **Evaluation**
   - Reports accuracy, loss, and performance metrics on test data
